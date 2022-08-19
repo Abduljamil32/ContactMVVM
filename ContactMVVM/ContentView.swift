@@ -1,9 +1,6 @@
 //
 //  ContentView.swift
 //  ContactMVVM
-//
-//  Created by Avaz Mukhitdinov on 18/08/22.
-//
 
 import SwiftUI
 

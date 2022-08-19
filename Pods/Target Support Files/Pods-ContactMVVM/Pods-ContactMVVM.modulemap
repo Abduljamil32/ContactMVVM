@@ -1,0 +1,6 @@
+framework module Pods_ContactMVVM {
+  umbrella header "Pods-ContactMVVM-umbrella.h"
+
+  export *
+  module * { export * }
+}
